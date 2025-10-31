@@ -1,3 +1,10 @@
 #OS{
     font-family: 'Courier New', Courier, monospace;
+
+
+h1{
+  color: pink;
+}
+p{
+  color: purple;
 }
